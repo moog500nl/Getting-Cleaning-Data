@@ -4,7 +4,7 @@ author: "Marenco Kemp"
 
 date: "31.07.2019"
 
-output: "tidydate.txt""
+output: "TidyData.txt""
 
 Code Book
 The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
